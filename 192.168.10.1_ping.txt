@@ -1,0 +1,4 @@
+bytes: 32 / time: 1ms / TTL: 128
+Approximate round trip times in milli-seconds: minimum = 0ms / maximum = 0ms / average = 0ms
+Fps: 120
+Link speed: 1000Mbps
