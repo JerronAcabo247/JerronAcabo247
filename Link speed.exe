@@ -1,0 +1,3 @@
+int 0x3E8
+mov 0x3E8,1000Mbps
+ 
