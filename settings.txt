@@ -1,0 +1,3 @@
+Ping: 1 ms
+Fps:120
+Link speed: 1000 Mbps
